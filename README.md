@@ -2,6 +2,7 @@
 🚀 CALCON (Calculator Consol) BY Doyok Developer! 
 
 ![image](https://github.com/yogasaputra2896/CalCon-Calculator-Console-/assets/140365312/49930f51-ace1-47fa-b834-598fe606a92a)
+![image](https://github.com/yogasaputra2896/CalCon-Calculator-Console-/assets/140365312/fac3b02c-1a2b-45fb-97a1-1ea8cebd06c8)
 
 CALCON adalah proyek sederhana yang dibuat oleh Doyok Developer untuk membantu Anda melakukan perhitungan matematika secara cepat dan efisien dengan aplikasi consolw. 
 Versi 1.0 dari konsol ini menawarkan pengalaman yang stylish dan intuitif, cocok untuk pengguna dari berbagai latar belakang.
@@ -22,7 +23,6 @@ Ikuti Panduan: Panduan interaktif akan membantu Anda memulai perhitungan dengan 
 
 Kalkulasi Tak Terbatas: Lanjutkan kalkulasi hingga Anda puas untuk melihat hasil akhirnya cukup memasukkan operator (=).
 Penanganan Kesalahan yang Andal: Jangan khawatir tentang pembagian dengan nol atau kesalahan input lainnya, konsol ini siap menanganinya dengan baik.
-![image](https://github.com/yogasaputra2896/CalCon-Calculator-Console-/assets/140365312/fac3b02c-1a2b-45fb-97a1-1ea8cebd06c8)
 
 
 🔗 Kunjungi Repositori untuk mengetahui lebih lanjut, berkontribusi, atau mulai menggunakan konsol kalkulator ini!
