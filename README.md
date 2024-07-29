@@ -1,4 +1,4 @@
-CALCON (Calculator Consol) BY Doyok Developer
+# CALCON (Calculator Consol) BY Doyok Developer
 
 # PENDAHULUAN
 CALCON adalah proyek sederhana yang dibuat oleh Doyok Developer untuk
