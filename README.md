@@ -1,4 +1,4 @@
-# CALCON (Calculator Consol) BY Doyok Developer
+# CALCON (Calculator Consol)
 
 CALCON adalah proyek sederhana yang saya buat untuk mengembangkan skill bahasa pemrograman python.
 CALCON dapat membantu Anda melakukan perhitungan matematika secara cepat dan efisien di dalam console/CLI.
