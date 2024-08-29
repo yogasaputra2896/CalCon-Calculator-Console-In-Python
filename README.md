@@ -18,6 +18,3 @@ CALCON dapat membantu Anda melakukan perhitungan matematika secara cepat dan efi
 salinan kode dengan mudah dari repo.
 - Jalankan Skrip:
 Jalankan calculator.py di terminal atau lingkungan Python Anda.
-- Ikuti Panduan:
-Panduan interaktif akan membantu Anda memulai perhitungan dengan cepat dan lancar!
-
