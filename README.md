@@ -21,4 +21,5 @@ salinan kode dengan mudah dari repo.
 - Jalankan Skrip:
 Jalankan calculator.py di terminal atau lingkungan Python Anda.
 
-Selamat mencoba :)
+# Kontribusi
+Jika Anda tertarik untuk berkontribusi, silakan buat pull request atau ajukan issue di halaman ini.
